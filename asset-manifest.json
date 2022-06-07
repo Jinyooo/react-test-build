@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/github.io//react-test-build/static/css/main.07477aca.css",
+    "main.js": "/github.io//react-test-build/static/js/main.c573a74a.js",
+    "static/js/787.7beb67b4.chunk.js": "/github.io//react-test-build/static/js/787.7beb67b4.chunk.js",
+    "static/media/1.png": "/github.io//react-test-build/static/media/1.2c5bc7cdbf88262bae1b.png",
+    "static/media/book.webp": "/github.io//react-test-build/static/media/book.209ac2436ad56d0cd0d8.webp",
+    "index.html": "/github.io//react-test-build/index.html",
+    "main.07477aca.css.map": "/github.io//react-test-build/static/css/main.07477aca.css.map",
+    "main.c573a74a.js.map": "/github.io//react-test-build/static/js/main.c573a74a.js.map",
+    "787.7beb67b4.chunk.js.map": "/github.io//react-test-build/static/js/787.7beb67b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07477aca.css",
+    "static/js/main.c573a74a.js"
+  ]
+}
